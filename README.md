@@ -22,3 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+token: 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
